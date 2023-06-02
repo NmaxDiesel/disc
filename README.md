@@ -1,1 +1,7 @@
 # disc
+
+bg
+
+obj
+
+req
